@@ -80,6 +80,9 @@ body > header .user-menu-avatar{border-radius: 50% !important;}
   
 .icons-notifications_grey{background: url('http://v.sanspseudofix.fr/userstyles/diaspora/alarm8.png') !important;width: 18px !important; height: 16px !important;background-position: 0px 0px !important;background-repeat: no-repeat !important;margin-top: 10px !important;}
 .icons-mail_grey{background: url('http://v.sanspseudofix.fr/userstyles/diaspora/mailbox1.png') !important;width: 16px !important; height: 22px !important;background-position: 0px 0px !important;background-repeat: no-repeat !important;}
+
+#home_user_badge h4{display:inline-block !important;margin-left: -60px !important;margin-top: 60px !important; overflow:visible !important;width:100% !important;}
+#home_user_badge h4 a{display:block !important;width:100% !important;overflow:visible !important;word-wrap:break-word !important;}
 /*****************************************************************************************
 *
 *					Body

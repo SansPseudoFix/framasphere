@@ -105,11 +105,11 @@ body > header .user-menu-avatar{border-radius: 50% !important;}
 .comment.media{border-top: none !important;}
 .show_comments:before{visibility:hidden !important;}
 .comments .comment .bd,
-#single-post-interactions .comments .comment .bd{background: #fff !important;border:1px solid #000 !important;padding: 5px !important;}
+#single-post-interactions .comments .comment .bd{background: #fff !important;border:1px solid #D2703A !important;padding: 5px !important;}
 .comment_stream .comments .comment:before{content:"";display:block !important;position:relative !important;width:0px !important;height:0px !important;left:32px !important;top:20px !important;border-right:11px solid #333 !important;border-top:10px solid transparent !important;border-bottom:10px solid transparent !important;}
-#single-post-interactions .comments .comment:before{content:"";width:0px !important;height:0px !important;display:block !important;position:relative !important;left:37px !important;border-right:10px solid #333 !important;border-top:10px solid transparent !important;border-bottom:10px solid transparent !important;}
-#profile_container .comments .comment:before{content:"";width:0px !important;height:0px !important;display:block !important;position:relative !important;left:32px !important;border-right:11px solid #333 !important;border-top:10px solid transparent !important;border-bottom:10px solid transparent !important;}
-.new_comment_form_wrapper:before{content:"";visibility: hidden !important;display:block !important;position:absolute !important;left:21.9% !important;border-right:11px solid #333 !important;border-top:10px solid transparent !important;border-bottom:10px solid transparent !important;}
+#single-post-interactions .comments .comment:before{content:"";width:0px !important;height:0px !important;display:block !important;position:relative !important;left:37px !important;border-right:10px solid #D2703A !important;border-top:10px solid transparent !important;border-bottom:10px solid transparent !important;}
+#profile_container .comments .comment:before{content:"";width:0px !important;height:0px !important;display:block !important;position:relative !important;left:32px !important;border-right:11px solid #D2703A !important;border-top:10px solid transparent !important;border-bottom:10px solid transparent !important;}
+.new_comment_form_wrapper:before{content:"";visibility: hidden !important;display:block !important;position:absolute !important;left:21.9% !important;border-right:11px solid #D2703A !important;border-top:10px solid transparent !important;border-bottom:10px solid transparent !important;}
 .stream_element .collapsible p{color: #333 !important;}
 .collapsible.comment-content > p{color: #333 !important;}
 .likes img{background: none !important;padding: 0 !important;}

@@ -3,6 +3,8 @@ framasphere
 
 A stylish theme for [Diaspora*](https://github.com/diaspora/diaspora)
 
+![style applied](https://df6a.https.cdn.softlayer.net/80DF6A/static.userstyles.org/style_screenshots/106568_after.png?r=1414455013)
+
 ## How to use
 
 ### With stylish (too easy method)

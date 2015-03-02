@@ -3,6 +3,7 @@
 @-moz-document domain("diasp.eu"),
 domain("diaspora-fr.org"),
 domain("framasphere.org"),
+domain("diaspote.org/"),
 domain("diasp.org"),
 domain("joindiaspora.com"),
 domain("pod.geraspora.de"),
@@ -90,7 +91,7 @@ body > header .user-menu-avatar{border-radius: 50% !important;}
 *******************************************************************************************/
 
 .span-24{width: 100% !important;}
-.span-13{width:69% !important;}
+.span-13,.span6{width:69% !important;} /* span-13 for stable and span6 for dev */
 .container{width: 100% !important;}
 #leftNavBar{width:10% !important;/*float:left !important;position:absolute !important;*/}
 .rightBar{width: 15% !important;/*margin-top: 260px !important;float:left !important;position:absolute !important;*/}
@@ -98,7 +99,7 @@ body > header .user-menu-avatar{border-radius: 50% !important;}
 .post-content .reshare{background: #f8f8f8 !important;border-left:3px solid #000 !important;border-radius:0px 5px !important;}
 .post-content .reshare>.media:before{content:'';display: block !important;position:absolute !important;margin-left:-60px !important;margin-top: 30px !important;background: url('http://v.sanspseudofix.fr/userstyles/diaspora/social105.png') no-repeat !important;width:32px !important;height:32px !important;/*background-position:-35px -35px !important;*/border-radius: 24px !important;}
 .feedback .reshare{border-left: none !important;}
-
+#single-post-content,#single-post-interactions{width: 48.7179% !important;}
 #tags_list{background: #f8f8f8 !important;z-index: 200 !important;position: absolute !important;}
 /*********************** Comment ***********************/
 .comment{border-bottom: none !important;}

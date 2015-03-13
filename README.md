@@ -9,7 +9,7 @@ A stylish theme for [Diaspora*](https://github.com/diaspora/diaspora)
 
 ### With stylish (too easy method)
 
-* Go [here](https://userstyles.org/styles/96878/diaspora-simple-large)
+* Go [here](https://userstyles.org/styles/106568/framasphere)
 * Install
 
 
